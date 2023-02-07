@@ -1,4 +1,12 @@
 ### Hi there 👋
+My name is Kamil Romasz
+
+🔭 I’m currently working on tests for my webapp <br>
+⚡ Fun fact: I have taught math for 8 year <br>
+📫 How to reach me: <br>
+  - linkedin.com/in/kamil-romasz-2119a180
+  - kamilromasz@hotmail.com
+
 
 <!--
 **kammy381/kammy381** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
